@@ -52,6 +52,18 @@ To upgrade
 brew upgrade kdash
 ```
 
+### MacPorts (Mac)
+
+```bash
+sudo port install kdash
+```
+
+To upgrade
+
+```bash
+sudo port upgrade kdash
+```
+
 ### Scoop (Windows - Recommended way)
 
 ```bash
